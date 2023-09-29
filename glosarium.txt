@@ -1,0 +1,53 @@
+MVC  (Model - View - Controller)
+
+mvc adalah sebuah pola arsitektur pada perancangan perangkat lunak yang berorientasi objek.
+tujuan dari mvc adalah untuk memisahkan antara tampilan data dan proses.
+
+
+
+data = Model
+proses = Controller
+view = tampilan
+
+kenapa mvc 
+- organisasi / tempat menyimpan file dan struktur kode yang baik
+- pemisahan logic dan tampilan
+- perawatan kode
+- implementasi konsep OOP yang sudah dipelajari
+- digunakan oleh banyak web application framework
+
+
+Framework MVC
+
+bahasa 
+- php frameworknya = codeIgniter, Laravel, Yii dll
+- java frameworknya - spring MVC, JFS, Struts dll
+- Python frameworknya = django, CherryPy dll
+- Ruby frameworknya = ruby on rails - sinatra dll
+-  javascript frameworknya = AngularJS, React, backbone.js dll
+
+
+
+Model 
+- representasi pengetahuan
+- mengelola data
+- logika bisnis
+
+Controller 
+- perantara antara model dan view
+- menangani pemrosesan pada aplikasi
+- menangani aksi dari user
+
+
+View 
+- output apa yang dilihat oleh user
+- representasi visual dari model
+- lapisan presentasi
+
+
+
+
+
+
+
+
